@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vivek9105
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
